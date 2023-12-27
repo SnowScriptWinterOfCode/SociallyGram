@@ -1,8 +1,6 @@
 # Instagram Clone
 
-<p align="center">
-  <img src= "https://user-images.githubusercontent.com/79600026/200431055-5cbd410d-bd56-49bc-ab2a-cd3014884547.jpg" alt="4" width="350"/>
-</p>
+![image](https://github.com/SnowScriptWinterOfCode/SociallyGram/assets/97171261/3e07c055-a1c7-4232-88e5-8997a054743f)
 
 The app contains a basic structure of Instagram. Instagram is a free photo and video-sharing app available on iPhone and Android. People can upload photos or videos to our service and share them with their followers or with a selected group of friends. 
 
@@ -43,8 +41,8 @@ samples, guidance on mobile development, and a full API reference.
 - Please mention your full name on your GitHub handle to be eligible for prizes.
 
 
-You can take up any of the existing issues or create a new one to to contribute!<br/> 
-Contribution period ends: 26 January 2024
+You can take up any of the existing issues or create a new one to contribute!<br/> 
+Contribution period ends: 28 January 2024
 
 
 ## How to get started?
