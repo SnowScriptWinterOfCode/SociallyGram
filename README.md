@@ -1,4 +1,4 @@
-# Instagram Clone
+# SociallyGram
 
 ![image](https://github.com/SnowScriptWinterOfCode/SociallyGram/assets/97171261/3e07c055-a1c7-4232-88e5-8997a054743f)
 
@@ -6,6 +6,9 @@ The app contains a basic structure of Instagram. Instagram is a free photo and v
 
 ## Maintainers 
 [@Aarushi-29](https://github.com/Aarushi-29) and [@Nitya-Pasrija](https://github.com/Nitya-Pasrija)
+
+## Reviewers
+@Ritukumari2003
 
 Feel free to contact them if you feel stuck at any point, or wish to report someone.
 
@@ -49,7 +52,7 @@ Contribution period ends: 28 January 2024
 
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.gg/xTNC4MGB) if you have any doubts.
 
-- [Learn how to contribute to GDSC IGDTUW Autumn of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
+- [Learn how to contribute to GDSC IGDTUW SnowScript Winter of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
 - [Go through this repository to how to contribute learn step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
