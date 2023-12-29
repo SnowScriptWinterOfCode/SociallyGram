@@ -8,7 +8,7 @@ The app contains a basic structure of Instagram. Instagram is a free photo and v
 [@Aarushi-29](https://github.com/Aarushi-29) and [@Nitya-Pasrija](https://github.com/Nitya-Pasrija)
 
 ## Reviewers
-@Ritukumari2003
+@Ritukumari2003(https://github.com/Ritukumari2003)
 
 Feel free to contact them if you feel stuck at any point, or wish to report someone.
 
