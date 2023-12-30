@@ -63,7 +63,7 @@ You can refer to the following resources on Git and Github to get started and co
 
 
 
-##☃️ Prizes
+# ☃️ Prizes
 Top 3 contributors ❄️
 Special prize | Bonanza Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
 
@@ -78,7 +78,7 @@ Swag kits and lots of exciting goodies | Certificate of appreciation
 
 All the contributors will get a certificate of appreciation for their first successful pull request :)
 
-##☃️ For Contributors that identify as women
+# ☃️ For Contributors that identify as women
 Mention your pronouns in the profile to be eligible for the women only prizes.
 Join our Discord to stay in touch with project mentors and for any furthur questions.
 
