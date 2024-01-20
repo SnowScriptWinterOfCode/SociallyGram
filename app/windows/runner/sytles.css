@@ -1,0 +1,10 @@
+/* Add your styles here */
+.container {
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
