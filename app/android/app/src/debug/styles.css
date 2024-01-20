@@ -1,0 +1,17 @@
+/* Add your styles here */
+.container {
+    padding: 20px;
+}
+
+.story-button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.story-button.active {
+    background-color: #e74c3c; /* Change the color when active */
+}
